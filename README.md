@@ -1,6 +1,6 @@
 # A simple text-to-speech website
 
-This is a simple website lightly styled with [TalwindCSS](https://github.com/tailwindlabs/tailwindcss) containing a `textarea` and a few buttons. These elements are used to utilize the Web Speech API to read aloud supplied text. Try it yourself [here](https://rnd195.github.io/text-to-speech-js/).
+This is a simple website lightly styled with [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) containing a `textarea` and a few buttons. These elements are used to utilize the Web Speech API to read aloud supplied text. Try it yourself [here](https://rnd195.github.io/text-to-speech-js/).
 
 For my personal use, I filter out all the available languages to show just `en-US`and `cs-CZ` and the default voice is set to *Microsoft Jenny*. Feel free to fork the project and change these.
 
