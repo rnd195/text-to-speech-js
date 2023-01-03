@@ -1,12 +1,7 @@
 let utter = new SpeechSynthesisUtterance()
 let voices = [0]
 
-const checkBrowserCompatibility = () => {
-  "speechSynthesis" in window
-    ? console.log("Web Speech API supported.")
-    : console.log("Web Speech API not supported.")
-}
-checkBrowserCompatibility()
+'speechSynthesis' in window ? console.log("Web Speech API supported.") : console.log("Web Speech API not supported.")
 
 window.speechSynthesis.onvoiceschanged = () => {
   voices = window.speechSynthesis.getVoices().filter(function (voice) { return voice.lang == 'en-US' || voice.lang == 'cs-CZ'; })
