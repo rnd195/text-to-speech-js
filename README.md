@@ -1,4 +1,4 @@
-# A simple text-to-speech webapp
+# A simple text-to-speech website
 
 This is a simple website lightly styled with [TalwindCSS](https://github.com/tailwindlabs/tailwindcss) containing a `textarea` and a few buttons. These elements are used to utilize the Web Speech API to read aloud supplied text. Try it yourself [here](https://rnd195.github.io/text-to-speech-js/).
 
