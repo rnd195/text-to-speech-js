@@ -22,3 +22,8 @@ This project is based on the following articles
 - [*How “You” Can Make a Simple Text-to-Speech Converter Using JavaScript*](https://javascript.plainenglish.io/how-you-can-make-a-simple-text-to-speech-converter-using-javascript-750350237dab) by Rafeh Waqar, 2022
 - [*JavaScript Text-to-Speech - The Easy Way*](https://www.assemblyai.com/blog/javascript-text-to-speech-easy-way/)  by Stefan Rosanitsch, 2022
 
+
+
+## License
+
+The software is licensed under the [MIT License](https://github.com/rnd195/text-to-speech-js/blob/main/LICENSE).
